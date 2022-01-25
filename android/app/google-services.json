@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "647045221441",
+    "project_id": "thecajunangler-fc655",
+    "storage_bucket": "thecajunangler-fc655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647045221441:android:d79bb486db2c66084e8ac0",
+        "android_client_info": {
+          "package_name": "com.thecajunangler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647045221441-3io2amrl5blpl7hue17obtfcv3o8j1g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecajunangler",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "647045221441-898eag88hp45jjfk2seg67jmm5ktvs7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_DuFSxwPQrQmdNCQpAXiU5H1Iz3OFRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647045221441-898eag88hp45jjfk2seg67jmm5ktvs7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647045221441-4ba4an5mee0t83k9nov2qnopqmbf3nlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thecajunangler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
